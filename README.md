@@ -31,8 +31,5 @@ Seleção de Colunas Relevantes: São selecionadas as colunas relevantes para vi
 
 Visualização Inicial: Os primeiros 10 registros do DataFrame são exibidos.
 
-Exemplos
-Você pode encontrar exemplos de uso no código do projeto, principalmente na seção "Como Usar" e nos blocos de código.
-
 Contribuições
 Se você deseja contribuir para este projeto, fique à vontade para abrir uma solicitação de pull ou reportar problemas.
