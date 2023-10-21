@@ -1,6 +1,6 @@
 # Análise de Gols
 
-Este projeto tem como objetivo realizar uma análise dos gols marcados durante partidas de uma Copa de Futebol. Ele envolve a manipulação de dados, a correção de valores e a criação de novas colunas que indicam se houve mais de 2.5 gols, mais de 3.5 gols ou se Ambos Times Marcaram ou não.
+Este projeto tem como objetivo realizar uma análise dos gols marcados durante partidas de Futebol Virtual. Ele envolve a manipulação de dados, a correção de valores e a criação de novas colunas que indicam se houve mais de 2.5 gols, mais de 3.5 gols ou se Ambos Times Marcaram ou não.
 
 ## Pré-requisitos
 
